@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="2080px" height="2066px" viewBox="0 0 2080 2066" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#030D4F" offset="0%"></stop>
+            <stop stop-color="#020729" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-1" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" transform="translate(1040.000000, 1033.000000) rotate(-180.000000) translate(-1040.000000, -1033.000000) " x="0" y="0" width="2080" height="2066" rx="100"></rect>
+            <path d="M1352.36547,426.145612 C1262.73496,383.278849 1145.82561,356 1017.22532,356 C771.715683,356 549.587914,527.46705 549.587914,761.285755 C549.587914,985.362014 748.333813,1063.30158 968.513094,1108.11683 C1112.70129,1137.34417 1239.35309,1182.15942 1239.35309,1306.86273 C1239.35309,1431.56604 1128.28921,1507.55712 982.152518,1507.55712 C871.088633,1507.55712 783.406619,1470.53583 717.157986,1437.41151 C689.879137,1427.66906 662.600288,1415.97813 629.475971,1415.97813 C574.918273,1415.97813 534,1468.58734 534,1525.09353 C534,1571.85727 559.33036,1604.98158 613.888058,1632.26043 C693.776115,1671.23022 832.118849,1710.2 984.101007,1710.2 C1258.83799,1708.25151 1457.58388,1550.42388 1457.58388,1299.06878 C1457.58388,1053.55914 1268.58043,973.671079 1032.81324,923.01036 C894.470504,891.834532 767.818705,866.504173 767.818705,747.646331 C767.818705,634.633957 878.88259,550.848921 1011.37986,550.848921 C1102.95885,550.848921 1175.05295,572.282302 1229.61065,597.612662 C1254.94101,607.355108 1293.91079,622.943022 1323.13813,622.943022 C1377.69583,622.943022 1416.66561,566.436835 1416.66561,523.570072 C1416.66561,476.806331 1393.28374,445.630504 1352.36547,426.145612 L1352.36547,426.145612 Z" id="S" stroke="#479FDF" stroke-width="30" fill-opacity="0" fill="#000000" sketch:type="MSShapeGroup"></path>
+            <g id="stars" transform="translate(131.000000, 58.326895)" fill="#EEEAF2" sketch:type="MSShapeGroup">
+                <ellipse id="star" cx="947" cy="222.051511" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1118" cy="333.588905" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="286" cy="343.821694" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="622" cy="232.284299" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="442" cy="134.049529" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="164" cy="680.480436" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="746" cy="369.403665" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="901" cy="144.282318" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="81" cy="313.123328" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="15" cy="60.3734522" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="5" cy="476.847945" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="552" cy="487.080733" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1519" cy="466.615156" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1327" cy="211.818722" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1230" cy="75.722635" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="675" cy="70.6062407" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1591" cy="242.517088" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1529" cy="75.722635" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1813" cy="139.165924" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1727" cy="359.170877" rx="5" ry="5.11639425"></ellipse>
+                <ellipse id="star" cx="1696" cy="5.11639425" rx="5" ry="5.11639425"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
