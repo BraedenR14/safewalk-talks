@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="654px" height="628px" viewBox="0 0 654 628" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,323.261883 C0,491.088249 160.053326,627.120181 327.870391,627.120181 C495.695504,627.120181 653.712096,491.088243 653.712096,323.261876 C653.712096,155.44356 495.695509,0 327.870396,0 C160.053331,0 0,155.443566 0,323.261883 Z M327.870391,556.689452 C270.35105,556.689452 216.864341,587.735317 172.288059,558.17051 C96.2636849,507.709911 46.1495766,421.349763 46.1495766,323.261892 C46.1495766,167.67035 172.28001,41.5389756 327.870391,41.5389756 C483.460772,41.5389756 609.591205,167.67035 609.591205,323.261892 C609.591205,421.390009 559.428802,507.798452 483.331985,558.226854 C438.763752,587.767514 385.333388,556.689452 327.870391,556.689452 L327.870391,556.689452 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Shape">
+            <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
